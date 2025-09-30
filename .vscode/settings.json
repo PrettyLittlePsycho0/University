@@ -12,5 +12,10 @@
         "markdown": false,
         "scminput": false
     },
-    "liveServer.settings.port": 5501
+    "liveServer.settings.port": 5501,
+    "code-runner.executorMap": {
+        "csharp": "dotnet-script ${file}"
+    },
+    "dotnet.defaultSolution": "jj.sln"
+
 }
