@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Customer\UI\AdvanceSearch.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Customer\UI\CreateCustomer.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Customer\UI\CustomerUI.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Customer\UI\DeleteCustomer.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Customer\UI\UpdateCustomer.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Customer\UI\ViewAllCustomers.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="MainFrame.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="mainMenuUI.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Order\HistoryUI\AllHistory.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Order\HistoryUI\CustomerHistory.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Order\HistoryUI\HistoryUI.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Order\OrderUI\OrderUI.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Product\UI\AdvanceSearch.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Product\UI\CreateProduct.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Product\UI\DeleteProduct.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Product\UI\ProductUI.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Product\UI\UpdateProduct.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Product\UI\ViewAllProducts.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

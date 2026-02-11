@@ -1,0 +1,244 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Documents\\Study Material\\UET\\Programing\\Semsexter 2\\OOP\\ShopManagementSystemDesktop\\ShopManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{887BA8B9-02CC-46C6-804F-2A00CFCBB1BA}|ShopManagementSystem\\ShopManagementSystem.csproj|d:\\documents\\study material\\uet\\programing\\semsexter 2\\oop\\shopmanagementsystemdesktop\\shopmanagementsystem\\shopmanagementsystem\\common\\otherutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{887BA8B9-02CC-46C6-804F-2A00CFCBB1BA}|ShopManagementSystem\\ShopManagementSystem.csproj|solutionrelative:shopmanagementsystem\\common\\otherutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{887BA8B9-02CC-46C6-804F-2A00CFCBB1BA}|ShopManagementSystem\\ShopManagementSystem.csproj|d:\\documents\\study material\\uet\\programing\\semsexter 2\\oop\\shopmanagementsystemdesktop\\shopmanagementsystem\\shopmanagementsystem\\customer\\ui\\customerui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{887BA8B9-02CC-46C6-804F-2A00CFCBB1BA}|ShopManagementSystem\\ShopManagementSystem.csproj|solutionrelative:shopmanagementsystem\\customer\\ui\\customerui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{887BA8B9-02CC-46C6-804F-2A00CFCBB1BA}|ShopManagementSystem\\ShopManagementSystem.csproj|D:\\Documents\\Study Material\\UET\\Programing\\Semsexter 2\\OOP\\ShopManagementSystemDesktop\\ShopManagementSystem\\shopmanagementsystem\\customer\\ui\\customerui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{887BA8B9-02CC-46C6-804F-2A00CFCBB1BA}|ShopManagementSystem\\ShopManagementSystem.csproj|solutionrelative:shopmanagementsystem\\customer\\ui\\customerui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{887BA8B9-02CC-46C6-804F-2A00CFCBB1BA}|ShopManagementSystem\\ShopManagementSystem.csproj|D:\\Documents\\Study Material\\UET\\Programing\\Semsexter 2\\OOP\\ShopManagementSystemDesktop\\ShopManagementSystem\\shopmanagementsystem\\customer\\ui\\createcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{887BA8B9-02CC-46C6-804F-2A00CFCBB1BA}|ShopManagementSystem\\ShopManagementSystem.csproj|solutionrelative:shopmanagementsystem\\customer\\ui\\createcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{887BA8B9-02CC-46C6-804F-2A00CFCBB1BA}|ShopManagementSystem\\ShopManagementSystem.csproj|d:\\documents\\study material\\uet\\programing\\semsexter 2\\oop\\shopmanagementsystemdesktop\\shopmanagementsystem\\shopmanagementsystem\\mainmenuui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{887BA8B9-02CC-46C6-804F-2A00CFCBB1BA}|ShopManagementSystem\\ShopManagementSystem.csproj|solutionrelative:shopmanagementsystem\\mainmenuui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{887BA8B9-02CC-46C6-804F-2A00CFCBB1BA}|ShopManagementSystem\\ShopManagementSystem.csproj|D:\\Documents\\Study Material\\UET\\Programing\\Semsexter 2\\OOP\\ShopManagementSystemDesktop\\ShopManagementSystem\\shopmanagementsystem\\mainmenuui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{887BA8B9-02CC-46C6-804F-2A00CFCBB1BA}|ShopManagementSystem\\ShopManagementSystem.csproj|solutionrelative:shopmanagementsystem\\mainmenuui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{887BA8B9-02CC-46C6-804F-2A00CFCBB1BA}|ShopManagementSystem\\ShopManagementSystem.csproj|D:\\Documents\\Study Material\\UET\\Programing\\Semsexter 2\\OOP\\ShopManagementSystemDesktop\\ShopManagementSystem\\shopmanagementsystem\\mainframe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{887BA8B9-02CC-46C6-804F-2A00CFCBB1BA}|ShopManagementSystem\\ShopManagementSystem.csproj|solutionrelative:shopmanagementsystem\\mainframe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{887BA8B9-02CC-46C6-804F-2A00CFCBB1BA}|ShopManagementSystem\\ShopManagementSystem.csproj|d:\\documents\\study material\\uet\\programing\\semsexter 2\\oop\\shopmanagementsystemdesktop\\shopmanagementsystem\\shopmanagementsystem\\mainframe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{887BA8B9-02CC-46C6-804F-2A00CFCBB1BA}|ShopManagementSystem\\ShopManagementSystem.csproj|solutionrelative:shopmanagementsystem\\mainframe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{887BA8B9-02CC-46C6-804F-2A00CFCBB1BA}|ShopManagementSystem\\ShopManagementSystem.csproj|d:\\documents\\study material\\uet\\programing\\semsexter 2\\oop\\shopmanagementsystemdesktop\\shopmanagementsystem\\shopmanagementsystem\\order\\historyui\\customerhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{887BA8B9-02CC-46C6-804F-2A00CFCBB1BA}|ShopManagementSystem\\ShopManagementSystem.csproj|solutionrelative:shopmanagementsystem\\order\\historyui\\customerhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{887BA8B9-02CC-46C6-804F-2A00CFCBB1BA}|ShopManagementSystem\\ShopManagementSystem.csproj|d:\\documents\\study material\\uet\\programing\\semsexter 2\\oop\\shopmanagementsystemdesktop\\shopmanagementsystem\\shopmanagementsystem\\order\\historyui\\allhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{887BA8B9-02CC-46C6-804F-2A00CFCBB1BA}|ShopManagementSystem\\ShopManagementSystem.csproj|solutionrelative:shopmanagementsystem\\order\\historyui\\allhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{887BA8B9-02CC-46C6-804F-2A00CFCBB1BA}|ShopManagementSystem\\ShopManagementSystem.csproj|d:\\documents\\study material\\uet\\programing\\semsexter 2\\oop\\shopmanagementsystemdesktop\\shopmanagementsystem\\shopmanagementsystem\\order\\orderui\\orderui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{887BA8B9-02CC-46C6-804F-2A00CFCBB1BA}|ShopManagementSystem\\ShopManagementSystem.csproj|solutionrelative:shopmanagementsystem\\order\\orderui\\orderui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{887BA8B9-02CC-46C6-804F-2A00CFCBB1BA}|ShopManagementSystem\\ShopManagementSystem.csproj|d:\\documents\\study material\\uet\\programing\\semsexter 2\\oop\\shopmanagementsystemdesktop\\shopmanagementsystem\\shopmanagementsystem\\order\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{887BA8B9-02CC-46C6-804F-2A00CFCBB1BA}|ShopManagementSystem\\ShopManagementSystem.csproj|solutionrelative:shopmanagementsystem\\order\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{887BA8B9-02CC-46C6-804F-2A00CFCBB1BA}|ShopManagementSystem\\ShopManagementSystem.csproj|d:\\documents\\study material\\uet\\programing\\semsexter 2\\oop\\shopmanagementsystemdesktop\\shopmanagementsystem\\shopmanagementsystem\\order\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{887BA8B9-02CC-46C6-804F-2A00CFCBB1BA}|ShopManagementSystem\\ShopManagementSystem.csproj|solutionrelative:shopmanagementsystem\\order\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{887BA8B9-02CC-46C6-804F-2A00CFCBB1BA}|ShopManagementSystem\\ShopManagementSystem.csproj|d:\\documents\\study material\\uet\\programing\\semsexter 2\\oop\\shopmanagementsystemdesktop\\shopmanagementsystem\\shopmanagementsystem\\order\\orderrepositorydb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{887BA8B9-02CC-46C6-804F-2A00CFCBB1BA}|ShopManagementSystem\\ShopManagementSystem.csproj|solutionrelative:shopmanagementsystem\\order\\orderrepositorydb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerUI.cs",
+              "DocumentMoniker": "D:\\Documents\\Study Material\\UET\\Programing\\Semsexter 2\\OOP\\ShopManagementSystemDesktop\\ShopManagementSystem\\ShopManagementSystem\\Customer\\UI\\CustomerUI.cs",
+              "RelativeDocumentMoniker": "ShopManagementSystem\\Customer\\UI\\CustomerUI.cs",
+              "ToolTip": "D:\\Documents\\Study Material\\UET\\Programing\\Semsexter 2\\OOP\\ShopManagementSystemDesktop\\ShopManagementSystem\\ShopManagementSystem\\Customer\\UI\\CustomerUI.cs",
+              "RelativeToolTip": "ShopManagementSystem\\Customer\\UI\\CustomerUI.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowD0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T16:55:24.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerUI.cs [Design]",
+              "DocumentMoniker": "D:\\Documents\\Study Material\\UET\\Programing\\Semsexter 2\\OOP\\ShopManagementSystemDesktop\\ShopManagementSystem\\ShopManagementSystem\\Customer\\UI\\CustomerUI.cs",
+              "RelativeDocumentMoniker": "ShopManagementSystem\\Customer\\UI\\CustomerUI.cs",
+              "ToolTip": "D:\\Documents\\Study Material\\UET\\Programing\\Semsexter 2\\OOP\\ShopManagementSystemDesktop\\ShopManagementSystem\\ShopManagementSystem\\Customer\\UI\\CustomerUI.cs [Design]",
+              "RelativeToolTip": "ShopManagementSystem\\Customer\\UI\\CustomerUI.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T16:55:20.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateCustomer.cs [Design]",
+              "DocumentMoniker": "D:\\Documents\\Study Material\\UET\\Programing\\Semsexter 2\\OOP\\ShopManagementSystemDesktop\\ShopManagementSystem\\ShopManagementSystem\\Customer\\UI\\CreateCustomer.cs",
+              "RelativeDocumentMoniker": "ShopManagementSystem\\Customer\\UI\\CreateCustomer.cs",
+              "ToolTip": "D:\\Documents\\Study Material\\UET\\Programing\\Semsexter 2\\OOP\\ShopManagementSystemDesktop\\ShopManagementSystem\\ShopManagementSystem\\Customer\\UI\\CreateCustomer.cs [Design]*",
+              "RelativeToolTip": "ShopManagementSystem\\Customer\\UI\\CreateCustomer.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T16:55:13.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "mainMenuUI.cs",
+              "DocumentMoniker": "D:\\Documents\\Study Material\\UET\\Programing\\Semsexter 2\\OOP\\ShopManagementSystemDesktop\\ShopManagementSystem\\ShopManagementSystem\\mainMenuUI.cs",
+              "RelativeDocumentMoniker": "ShopManagementSystem\\mainMenuUI.cs",
+              "ToolTip": "D:\\Documents\\Study Material\\UET\\Programing\\Semsexter 2\\OOP\\ShopManagementSystemDesktop\\ShopManagementSystem\\ShopManagementSystem\\mainMenuUI.cs",
+              "RelativeToolTip": "ShopManagementSystem\\mainMenuUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T18:15:04.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "mainMenuUI.cs [Design]",
+              "DocumentMoniker": "D:\\Documents\\Study Material\\UET\\Programing\\Semsexter 2\\OOP\\ShopManagementSystemDesktop\\ShopManagementSystem\\ShopManagementSystem\\mainMenuUI.cs",
+              "RelativeDocumentMoniker": "ShopManagementSystem\\mainMenuUI.cs",
+              "ToolTip": "D:\\Documents\\Study Material\\UET\\Programing\\Semsexter 2\\OOP\\ShopManagementSystemDesktop\\ShopManagementSystem\\ShopManagementSystem\\mainMenuUI.cs [Design]",
+              "RelativeToolTip": "ShopManagementSystem\\mainMenuUI.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T18:14:56.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OtherUtils.cs",
+              "DocumentMoniker": "D:\\Documents\\Study Material\\UET\\Programing\\Semsexter 2\\OOP\\ShopManagementSystemDesktop\\ShopManagementSystem\\ShopManagementSystem\\Common\\OtherUtils.cs",
+              "RelativeDocumentMoniker": "ShopManagementSystem\\Common\\OtherUtils.cs",
+              "ToolTip": "D:\\Documents\\Study Material\\UET\\Programing\\Semsexter 2\\OOP\\ShopManagementSystemDesktop\\ShopManagementSystem\\ShopManagementSystem\\Common\\OtherUtils.cs",
+              "RelativeToolTip": "ShopManagementSystem\\Common\\OtherUtils.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T18:02:08.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainFrame.cs",
+              "DocumentMoniker": "D:\\Documents\\Study Material\\UET\\Programing\\Semsexter 2\\OOP\\ShopManagementSystemDesktop\\ShopManagementSystem\\ShopManagementSystem\\MainFrame.cs",
+              "RelativeDocumentMoniker": "ShopManagementSystem\\MainFrame.cs",
+              "ToolTip": "D:\\Documents\\Study Material\\UET\\Programing\\Semsexter 2\\OOP\\ShopManagementSystemDesktop\\ShopManagementSystem\\ShopManagementSystem\\MainFrame.cs",
+              "RelativeToolTip": "ShopManagementSystem\\MainFrame.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAADEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T15:00:43.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainFrame.cs [Design]",
+              "DocumentMoniker": "D:\\Documents\\Study Material\\UET\\Programing\\Semsexter 2\\OOP\\ShopManagementSystemDesktop\\ShopManagementSystem\\ShopManagementSystem\\MainFrame.cs",
+              "RelativeDocumentMoniker": "ShopManagementSystem\\MainFrame.cs",
+              "ToolTip": "D:\\Documents\\Study Material\\UET\\Programing\\Semsexter 2\\OOP\\ShopManagementSystemDesktop\\ShopManagementSystem\\ShopManagementSystem\\MainFrame.cs [Design]",
+              "RelativeToolTip": "ShopManagementSystem\\MainFrame.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T15:00:35.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CustomerHistory.cs",
+              "DocumentMoniker": "D:\\Documents\\Study Material\\UET\\Programing\\Semsexter 2\\OOP\\ShopManagementSystemDesktop\\ShopManagementSystem\\ShopManagementSystem\\Order\\HistoryUI\\CustomerHistory.cs",
+              "RelativeDocumentMoniker": "ShopManagementSystem\\Order\\HistoryUI\\CustomerHistory.cs",
+              "ToolTip": "D:\\Documents\\Study Material\\UET\\Programing\\Semsexter 2\\OOP\\ShopManagementSystemDesktop\\ShopManagementSystem\\ShopManagementSystem\\Order\\HistoryUI\\CustomerHistory.cs",
+              "RelativeToolTip": "ShopManagementSystem\\Order\\HistoryUI\\CustomerHistory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T19:25:04.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AllHistory.cs",
+              "DocumentMoniker": "D:\\Documents\\Study Material\\UET\\Programing\\Semsexter 2\\OOP\\ShopManagementSystemDesktop\\ShopManagementSystem\\ShopManagementSystem\\Order\\HistoryUI\\AllHistory.cs",
+              "RelativeDocumentMoniker": "ShopManagementSystem\\Order\\HistoryUI\\AllHistory.cs",
+              "ToolTip": "D:\\Documents\\Study Material\\UET\\Programing\\Semsexter 2\\OOP\\ShopManagementSystemDesktop\\ShopManagementSystem\\ShopManagementSystem\\Order\\HistoryUI\\AllHistory.cs",
+              "RelativeToolTip": "ShopManagementSystem\\Order\\HistoryUI\\AllHistory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T19:24:44.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderUI.cs",
+              "DocumentMoniker": "D:\\Documents\\Study Material\\UET\\Programing\\Semsexter 2\\OOP\\ShopManagementSystemDesktop\\ShopManagementSystem\\ShopManagementSystem\\Order\\OrderUI\\OrderUI.cs",
+              "RelativeDocumentMoniker": "ShopManagementSystem\\Order\\OrderUI\\OrderUI.cs",
+              "ToolTip": "D:\\Documents\\Study Material\\UET\\Programing\\Semsexter 2\\OOP\\ShopManagementSystemDesktop\\ShopManagementSystem\\ShopManagementSystem\\Order\\OrderUI\\OrderUI.cs",
+              "RelativeToolTip": "ShopManagementSystem\\Order\\OrderUI\\OrderUI.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAgwB0AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T19:24:05.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "D:\\Documents\\Study Material\\UET\\Programing\\Semsexter 2\\OOP\\ShopManagementSystemDesktop\\ShopManagementSystem\\ShopManagementSystem\\Order\\OrderService.cs",
+              "RelativeDocumentMoniker": "ShopManagementSystem\\Order\\OrderService.cs",
+              "ToolTip": "D:\\Documents\\Study Material\\UET\\Programing\\Semsexter 2\\OOP\\ShopManagementSystemDesktop\\ShopManagementSystem\\ShopManagementSystem\\Order\\OrderService.cs",
+              "RelativeToolTip": "ShopManagementSystem\\Order\\OrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T19:16:22.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "D:\\Documents\\Study Material\\UET\\Programing\\Semsexter 2\\OOP\\ShopManagementSystemDesktop\\ShopManagementSystem\\ShopManagementSystem\\Order\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "ShopManagementSystem\\Order\\IOrderRepository.cs",
+              "ToolTip": "D:\\Documents\\Study Material\\UET\\Programing\\Semsexter 2\\OOP\\ShopManagementSystemDesktop\\ShopManagementSystem\\ShopManagementSystem\\Order\\IOrderRepository.cs",
+              "RelativeToolTip": "ShopManagementSystem\\Order\\IOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T19:15:01.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OrderRepositoryDB.cs",
+              "DocumentMoniker": "D:\\Documents\\Study Material\\UET\\Programing\\Semsexter 2\\OOP\\ShopManagementSystemDesktop\\ShopManagementSystem\\ShopManagementSystem\\Order\\OrderRepositoryDB.cs",
+              "RelativeDocumentMoniker": "ShopManagementSystem\\Order\\OrderRepositoryDB.cs",
+              "ToolTip": "D:\\Documents\\Study Material\\UET\\Programing\\Semsexter 2\\OOP\\ShopManagementSystemDesktop\\ShopManagementSystem\\ShopManagementSystem\\Order\\OrderRepositoryDB.cs",
+              "RelativeToolTip": "ShopManagementSystem\\Order\\OrderRepositoryDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T19:14:16.352Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
